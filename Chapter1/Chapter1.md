@@ -159,8 +159,8 @@
 
 모델이 매우 훈련 데이터에 대해서만 훈련이 되어 있는 것. Test set에서 훈련 데이터에서 약간만 벗어나도 바로 오류날 가능성
 
-  **과대적합 해결 방법** 
-    - ***파라미터 수가 적은*** 모델을 선택하거나, 훈련 데이터에 있는 ***featuer 수를 줄이거나*** 모델에 ***제약(Regulation)*** 을 가한다.
+  - **과대적합 해결 방법** 
+    - **파라미터 수가 적은** 모델을 선택하거나, 훈련 데이터에 있는 **featuer 수를 줄이거나** 모델에 **제약(Regulation)** 을 가한다.
     - 훈련데이터를 더 많이 모은다.
     - 오류 데이터 수정 및 이상치 제거
     - **하이퍼파라미터** 조절
@@ -169,10 +169,12 @@
 
 모델이 너무 단순하여 내재된 구조를 학습하지 못할 때 발생
 
-  **과소적합 해결방법**
+  - **과소적합 해결방법**
     - ***더 많은 파라미터***를 가진 모델을 선택
     - 학습 알고리즘에 더 좋은 특성 제공(Feature Selection or Feature Extraction)
     - 모델의 제약 감소(Regulation 완화)
+    
+<img src='https://mblogthumb-phinf.pstatic.net/MjAxODA3MzBfMjMy/MDAxNTMyODkwNjUxMjY4.H_ocFIRFaG8MWrBsv8BWrTCaAMGLMKZZUh_Rd1krRLog.HAZRdDtrQMvVGKiEWfGls8bm0EhTyRKf7XzoSY1Cibsg.JPEG.qbxlvnf11/maxresdefault.jpg?type=w800'></src>
     
 
 ## Validation & Test
