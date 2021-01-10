@@ -10,3 +10,6 @@
 
 3. <a href='https://bigdata-analyst.tistory.com/249'>스케일링~평가</a>
 
+### Chapter3(분류)
+1. <a href='https://bigdata-analyst.tistory.com/254'>MNIST dataset ~ roc curve</a>
+
