@@ -13,3 +13,5 @@
 ### Chapter3(분류)
 1. <a href='https://bigdata-analyst.tistory.com/254'>MNIST dataset ~ roc curve</a>
 
+### Chapter4(모델 훈련)
+1. <a href='https://bigdata-analyst.tistory.com/259'>선형회귀~경사하강법</a>
